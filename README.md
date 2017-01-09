@@ -10,6 +10,8 @@ KM: TESSSSSSSS
 
 Chaiwei: Hello Kwongmeng! Welcome to our git repo.
 
+KM: Hello CW
+
 Chaiwei: Andrew, this is zinho @zinhochow
 
 Chaiwei: Guys, please invite zax
